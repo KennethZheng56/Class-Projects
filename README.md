@@ -19,9 +19,9 @@ I have removed most of my classmates' work in these files. I uploaded the work I
 ### Intro to AI final
 * A final project where I have to make a search algorithm (the AI) from scratch to predict the most probable sentence
 * The professor had provided the tools to help me predict the next word
-*   I made 2 versions of a tree, using the next word as the nodes, and then using a search algorithm to find the most probable sentence.
+** I made 2 versions of a tree, using the next word as the nodes, and then using a search algorithm to find the most probable sentence.
 
 * I was tasked to look at the AI algorithms the class has learned and choose 2 that would produce the most probable string of words.
-*   Queue Search, Iterative Deepening, Minimax, MCTS, MDP, TRL, Gradient Descent, Neural Networks, Natural Language Processing, and Automated Reasoning
+** Queue Search, Iterative Deepening, Minimax, MCTS, MDP, TRL, Gradient Descent, Neural Networks, Natural Language Processing, and Automated Reasoning
 * I chose to do MCTS and Iterative Deepening. If you run the file right now, it'll run the Iterative deepening version. 
    
